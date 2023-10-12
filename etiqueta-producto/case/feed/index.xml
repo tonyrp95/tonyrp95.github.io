@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>Case &#8211; MARPSTORE</title>
+	<atom:link href="/etiqueta-producto/case/feed/" rel="self" type="application/rss+xml" />
+	<link></link>
+	<description></description>
+	<lastBuildDate>Thu, 12 Oct 2023 05:25:07 +0000</lastBuildDate>
+	<language>es-MX</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.3.1</generator>
+
+<image>
+	<url>/wp-content/uploads/2023/09/logo1.png</url>
+	<title>Case &#8211; MARPSTORE</title>
+	<link></link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Funda Lila IPHONE X/XS</title>
+		<link>/producto/funda-lila-iphone-x-xs/</link>
+					<comments>/producto/funda-lila-iphone-x-xs/#respond</comments>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Thu, 12 Oct 2023 05:21:39 +0000</pubDate>
+				<guid isPermaLink="false">/?post_type=product#038;p=75</guid>
+
+					<description><![CDATA[Funda TPU Color Lila para IPHONE X/XS]]></description>
+										<content:encoded><![CDATA[<p>Funda TPU Color Lila para IPHONE X/XS</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/producto/funda-lila-iphone-x-xs/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Funda Paletas IPHONE X/XS</title>
+		<link>/producto/funda-paletas-iphone-x-xs/</link>
+					<comments>/producto/funda-paletas-iphone-x-xs/#respond</comments>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Thu, 12 Oct 2023 05:05:05 +0000</pubDate>
+				<guid isPermaLink="false">/?post_type=product#038;p=73</guid>
+
+					<description><![CDATA[Funda TPU Diseño de paletas para IPHONE X/XS]]></description>
+										<content:encoded><![CDATA[<p>Funda TPU Diseño de paletas para IPHONE X/XS</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/producto/funda-paletas-iphone-x-xs/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Funda Rosa IPHONE X/XS</title>
+		<link>/producto/funda-rosa-iphone-x-xs/</link>
+					<comments>/producto/funda-rosa-iphone-x-xs/#respond</comments>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Thu, 12 Oct 2023 05:02:26 +0000</pubDate>
+				<guid isPermaLink="false">/?post_type=product#038;p=70</guid>
+
+					<description><![CDATA[Funda TPU color rosa para IPHONE X/XS]]></description>
+										<content:encoded><![CDATA[<p>Funda TPU color rosa para IPHONE X/XS</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/producto/funda-rosa-iphone-x-xs/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Funda Azul IPHONE X/XS</title>
+		<link>/producto/43/</link>
+					<comments>/producto/43/#respond</comments>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Tue, 10 Oct 2023 03:02:28 +0000</pubDate>
+				<guid isPermaLink="false">/?post_type=product#038;p=43</guid>
+
+					<description><![CDATA[Funda Azul IPHONE X/XS]]></description>
+										<content:encoded><![CDATA[<p>Funda TPU para IPHONE X/XS Azul</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/producto/43/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
